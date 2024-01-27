@@ -1,0 +1,1322 @@
+{
+  "book": [
+    {
+      "id": 1,
+      "bookName": "Harry Potter and the Sorcerer's Stone",
+      "author": "J.K. Rowling",
+      "slug": "harry-potter-sorcerers-stone",
+      "description": "The first book in the Harry Potter series follows the journey of a young wizard, Harry, as he discovers his magical abilities and begins his education at Hogwarts School of Witchcraft and Wizardry.",
+      "img": "https://rb.gy/vwnl3z"
+    },
+    {
+      "id": 2,
+      "bookName": "1984",
+      "author": "George Orwell",
+      "slug": "1984",
+      "description": "A dystopian novel set in a totalitarian society, 1984 explores the consequences of government surveillance, censorship, and the manipulation of truth.",
+      "img": "1984.jpg"
+    },
+    {
+      "id": 3,
+      "bookName": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "slug": "pride-prejudice",
+      "description": "A classic novel that follows the romantic entanglements of the Bennet family, particularly the headstrong Elizabeth Bennet and the proud Mr. Darcy.",
+      "img": "pride_prejudice.jpg"
+    },
+    {
+      "id": 4,
+      "bookName": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "slug": "to-kill-a-mockingbird",
+      "description": "Set in the American South during the 1930s, this novel explores themes of racial injustice and moral growth through the eyes of a young girl, Scout Finch.",
+      "img": "to_kill_a_mockingbird.jpg"
+    },
+    {
+      "id": 5,
+      "bookName": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "slug": "great-gatsby",
+      "description": "Set in the roaring 1920s, The Great Gatsby explores the themes of wealth, love, and the American Dream through the eyes of narrator Nick Carraway.",
+      "img": "great_gatsby.jpg"
+    },
+    {
+      "id": 6,
+      "bookName": "The Fellowship of the Ring",
+      "author": "J.R.R. Tolkien",
+      "slug": "lord-of-the-rings-fellowship",
+      "description": "The first installment in The Lord of the Rings trilogy, The Fellowship of the Ring follows the quest to destroy the One Ring and defeat the Dark Lord Sauron.",
+      "img": "fellowship_of_the_ring.jpg"
+    },
+    {
+      "id": 7,
+      "bookName": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "slug": "catcher-in-the-rye",
+      "description": "Narrated by Holden Caulfield, this novel explores the struggles and disillusionment of a teenage boy in post-World War II America.",
+      "img": "catcher_in_the_rye.jpg"
+    },
+    {
+      "id": 8,
+      "bookName": "Crime and Punishment",
+      "author": "Fyodor Dostoevsky",
+      "slug": "crime-and-punishment",
+      "description": "A psychological novel that delves into the mind of Rodion Raskolnikov, a young man who commits a crime and grapples with its consequences.",
+      "img": "crime_and_punishment.jpg"
+    },
+    {
+      "id": 9,
+      "bookName": "Brave New World",
+      "author": "Aldous Huxley",
+      "slug": "brave-new-world",
+      "description": "Set in a dystopian future, Brave New World explores a society where individuality is sacrificed for stability and happiness is manufactured.",
+      "img": "brave_new_world.jpg"
+    },
+    {
+      "id": 10,
+      "bookName": "Moby-Dick",
+      "author": "Herman Melville",
+      "slug": "moby-dick",
+      "description": "A classic tale of obsession, revenge, and the perils of the sea, Moby-Dick follows Captain Ahab's quest for the elusive white whale.",
+      "img": "moby_dick.jpg"
+    }
+  ],
+
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "rOq4XV94wLsC",
+      "etag": "7+VgpXeqVzk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/rOq4XV94wLsC",
+      "volumeInfo": {
+        "title": "Stress of War, Conflict and Disaster",
+        "authors": ["George Fink"],
+        "publisher": "Academic Press",
+        "publishedDate": "2010-11-25",
+        "description": "Stress is a universal phenomenon that impacts adversely on most people. Following on the heels of Stress Science: Neuroendocrinology and Stress Consequences: Mental, Neuropsychological and Socioeconomic, this third derivative volume will provide a readily accessible and affordable compendium that explains the phenomenon of stress as it relates physically and mentally to war, conflict and disaster. The first section will be dedicated to study of the link between stress and various forms of conflict. Specific instances of conflict will be discussed - the Gulf wars, Korea, Hiroshima bombing, the Holocaust, 9/11, Northern Ireland, terrorism in general, torture. The second section will explore the stress impact of more general physical disasters such as airline and vehicle accidents, earthquakes, floods, and hurricanes. The final section will focus on the clinical relationship between conflict stress and various mental diseases – PTSD, suicide, disaster syndrome, etc – as well as the adverse impact of stress on human physical health in general. Comprised of about 100 top articles selected from Elsevier’s Encyclopedias of Stress, the volume will provide a valuable desk reference that will put relevant articles readily at the fingertips of all scientists who consider stress. Chapters offer impressive and unique scope with topics addressing the relationship between stress generated by war, conflict and disaster and various physical/mental disorders Richly illustrated with over 200 figures, dozens in color Articles carefully selected by one of the world’s most preeminent stress researchers and contributors represent the most outstanding scholarship in the field, with each chapter providing fully vetted and reliable expert knowledge",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0123813824"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780123813824"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 896,
+        "printType": "BOOK",
+        "categories": ["Medical"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=rOq4XV94wLsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=rOq4XV94wLsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=rOq4XV94wLsC&printsec=frontcover&dq=wars&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=rOq4XV94wLsC&dq=wars&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Stress_of_War_Conflict_and_Disaster.html?hl=&id=rOq4XV94wLsC"
+      },
+      "saleInfo": {
+        "country": "MM",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "MM",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Stress_of_War_Conflict_and_Disaster-sample-epub.acsm?id=rOq4XV94wLsC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Stress_of_War_Conflict_and_Disaster-sample-pdf.acsm?id=rOq4XV94wLsC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=rOq4XV94wLsC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Following on the heels of Stress Science: Neuroendocrinology and Stress Consequences: Mental, Neuropsychological and Socioeconomic, this third derivative volume will provide a readily accessible and affordable compendium that explains the ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "jDlJtAEACAAJ",
+      "etag": "T+X3gLwL66o",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/jDlJtAEACAAJ",
+      "volumeInfo": {
+        "title": "Wars of the Century and the Development of Military Science (Classic Reprint)",
+        "authors": ["Oscar Browning"],
+        "publisher": "Forgotten Books",
+        "publishedDate": "2018-03-11",
+        "description": "Excerpt from Wars of the Century and the Development of Military Science No account of the Nineteenth Century would be complete without a narrative of its wars which are not inferior in interest to any which History records. The campaigns of Napoleon are not only replete with instruction for the military student, but are full of striking dramatic incidents, and from the marvellous personality of the principal actor in them exercise a fascination over the mind of the reader independent of his sympathies. The War of Secession in America touches us nearly both from the science and heroism displayed in it, and from the fact that the two combatants were of the same race and language, while the great War of 1870 must remain fr-r many years the classical example of every branch of the military art. About the Publisher Forgotten Books publishes hundreds of thousands of rare and classic books. Find more at www.forgottenbooks.com This book is a reproduction of an important historical work. Forgotten Books uses state-of-the-art technology to digitally reconstruct the work, preserving the original format whilst repairing imperfections present in the aged copy. In rare cases, an imperfection in the original, such as a blemish or missing page, may be replicated in our edition. We do, however, repair the vast majority of imperfections successfully; any imperfections that remain are intentionally left to preserve the state of such historical works.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0364338717"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780364338711"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 578,
+        "printType": "BOOK",
+        "categories": ["History"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=jDlJtAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=jDlJtAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=jDlJtAEACAAJ&dq=wars&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=jDlJtAEACAAJ&dq=wars&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Wars_of_the_Century_and_the_Development.html?hl=&id=jDlJtAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "MM",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "MM",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=jDlJtAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "About the Publisher Forgotten Books publishes hundreds of thousands of rare and classic books. Find more at www.forgottenbooks.com This book is a reproduction of an important historical work."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "8K0aAQAAIAAJ",
+      "etag": "mewcOiigy1I",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/8K0aAQAAIAAJ",
+      "volumeInfo": {
+        "title": "American Wars and Heroes",
+        "subtitle": "Revolutionary War Through Vietnam : Adapted from American Military History",
+        "authors": ["Maurice Matloff", "Stanley M. Ulanoff"],
+        "publisher": "Arco",
+        "publishedDate": "1985",
+        "description": "On t.p.: Adapted from American Military History . . . Discusses the development of the Army, its leaders, U.S. military actions, battles, and tactics.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105039770693"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 396,
+        "printType": "BOOK",
+        "categories": ["United States"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=8K0aAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=8K0aAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=8K0aAQAAIAAJ&q=wars&dq=wars&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=8K0aAQAAIAAJ&dq=wars&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/American_Wars_and_Heroes.html?hl=&id=8K0aAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "MM",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "MM",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=8K0aAQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... Mexico and Spain , and Korea . In the same way that history cannot prophesy , only illuminate , this <b>war</b> of contrasts produced no clear pattern for the warfare of the future . E 181 . A45 1984 C . 1 American <b>wars</b> 378 AMERICAN <b>WARS</b> AND ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "EKCVRbNCorMC",
+      "etag": "Q+nWFm/5b2g",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/EKCVRbNCorMC",
+      "volumeInfo": {
+        "title": "What Do We Know about War?",
+        "authors": ["John A. Vasquez"],
+        "publisher": "Rowman & Littlefield Publishers",
+        "publishedDate": "2012-03-16",
+        "description": "What Do We Know about War? reviews the research on causes of war and the conditions of peace over the past forty-five years. Leading scholars explore the critical roles of territorial disputes, alliances, arms races, rivalry, and nuclear weapons in bringing about war as well as the factors promoting peace, including democracy, norms, stable borders, and capitalist economies. Considering what has been learned about the causes of war and the conditions of peace in the ten years since the publication of the first edition, this invaluable text offers an accessible and up-to-date overview of current knowledge and an agenda for future research. Contributions by: Brett V. Benson, Paul F. Diehl, Colin Flint, Daniel S. Geller, Douglas M. Gibler, Gary Goertz, Paul R. Hensel, Choong-Nam Kang, Jack S. Levy, Zeev Maoz, Sara McLaughlin Mitchell, Michael Mousseau, Karen Rasler, Susan G. Sample, William R. Thompson, Brandon Valeriano, John A. Vasquez, and Peter Wallensteen.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781442212657"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1442212659"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 412,
+        "printType": "BOOK",
+        "categories": ["Political Science"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.2.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=EKCVRbNCorMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=EKCVRbNCorMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=EKCVRbNCorMC&printsec=frontcover&dq=wars&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=EKCVRbNCorMC&dq=wars&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/What_Do_We_Know_about_War.html?hl=&id=EKCVRbNCorMC"
+      },
+      "saleInfo": {
+        "country": "MM",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "MM",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/What_Do_We_Know_about_War-sample-epub.acsm?id=EKCVRbNCorMC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/What_Do_We_Know_about_War-sample-pdf.acsm?id=EKCVRbNCorMC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=EKCVRbNCorMC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Considering what has been learned about the causes of war and the conditions of peace in the ten years since the publication of the first edition, this invaluable text offers an accessible and up-to-date overview of current knowledge and an ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "vmgHDoit27MC",
+      "etag": "8fOQIjqYAxI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/vmgHDoit27MC",
+      "volumeInfo": {
+        "title": "Why We Fought",
+        "subtitle": "America's Wars in Film and History",
+        "authors": ["Peter C. Rollins", "John E. O'Connor"],
+        "publisher": "University Press of Kentucky",
+        "publishedDate": "2008-07-25",
+        "description": "A “wide-ranging and sophisticated anthology” comparing theaters of war to wars in the movie theater (Dennis Showalter, author of Patton and Rommel). Why We Fought makes a powerful case that film can be as valuable a tool as primary documents for improving our understanding of the causes and consequences of war. A comprehensive look at war films, from depictions of the American Revolution to portrayals of September 11 and its aftermath, this volume contrasts recognized history and historical fiction with the versions appearing on the big screen. The text considers a selection of the pivotal war films of all time, including All Quiet on the Western Front, Sands of Iwo Jima, Apocalypse Now, Platoon, and Saving Private Ryan—revealing how film depictions of the country’s wars have shaped our values, politics, and culture, and offering a unique lens through which to view American history. Named as a Choice Outstanding Academic Title",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780813138749"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0813138744"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 877,
+        "printType": "BOOK",
+        "categories": ["Performing Arts"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.9.8.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=vmgHDoit27MC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=vmgHDoit27MC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=vmgHDoit27MC&printsec=frontcover&dq=wars&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=vmgHDoit27MC&dq=wars&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Why_We_Fought.html?hl=&id=vmgHDoit27MC"
+      },
+      "saleInfo": {
+        "country": "MM",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "MM",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=vmgHDoit27MC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A comprehensive look at war films, from depictions of the American Revolution to portrayals of September 11 and its aftermath, this volume contrasts recognized history and historical fiction with the versions appearing on the big screen."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "xtKuTB_SlwcC",
+      "etag": "uKKwC+sjJW8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/xtKuTB_SlwcC",
+      "volumeInfo": {
+        "title": "Israel's Wars",
+        "subtitle": "A History Since 1947",
+        "authors": ["Ahron Bregman"],
+        "publisher": "Psychology Press",
+        "publishedDate": "2002",
+        "description": "During the twentieth century, Israel has achieved notoriety, witnessing almost constant conflict and violence. This book is a masterly account of Israel's wars with the Palestinians and the Arabs. From the 1947-8 Jewish-Palestinian struggle for the possession and mastery of the land of Palestine, through Israel's wars with its Arab neighbours, to theAl-Aqsa Intifada, this book unearths new insights and exposes unknown facts for the first time. It reveals secrets relating to the Soviets' involvement in inciting the June 1967 Six Day War, the Israeli bombing of the American USS Liberty, President Sadat's right-hand man, who was a top agent of Mossad and the Israeli assassinations of leading Palestinians during theAl-Aqsa Intifada.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0415287162"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780415287166"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 310,
+        "printType": "BOOK",
+        "categories": ["Arab-Israeli Conflict"],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.5.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=xtKuTB_SlwcC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=xtKuTB_SlwcC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=xtKuTB_SlwcC&dq=wars&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=xtKuTB_SlwcC&dq=wars&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Israel_s_Wars.html?hl=&id=xtKuTB_SlwcC"
+      },
+      "saleInfo": {
+        "country": "MM",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "MM",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=xtKuTB_SlwcC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "During the twentieth century, Israel has achieved notoriety, witnessing almost constant conflict and violence. This book is a masterly account of Israel's wars with the Palestinians and the Arabs."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "w6MFEAAAQBAJ",
+      "etag": "8S3O2jQtJ5Q",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/w6MFEAAAQBAJ",
+      "volumeInfo": {
+        "title": "The War That Will End War",
+        "authors": ["H.G. Wells"],
+        "publisher": "Prabhat Prakashan",
+        "publishedDate": "2021-01-01",
+        "description": "H.G. Wells was one of the greatest writers of the 20th century. Wells was a prolific author in many genres including history, politics, and social commentary.",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 65,
+        "printType": "BOOK",
+        "categories": ["Fiction"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=w6MFEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=w6MFEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=w6MFEAAAQBAJ&printsec=frontcover&dq=wars&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=w6MFEAAAQBAJ&dq=wars&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_War_That_Will_End_War.html?hl=&id=w6MFEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "MM",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "MM",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_War_That_Will_End_War-sample-epub.acsm?id=w6MFEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_War_That_Will_End_War-sample-pdf.acsm?id=w6MFEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=w6MFEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The War That Will End War by H.G. Wells: In this thought-provoking essay, H.G. Wells confronts the devastating realities of World War I and explores the idea of using the conflict as a catalyst to end all future wars."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "k0goAQAAMAAJ",
+      "etag": "9MRftc3KCsI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/k0goAQAAMAAJ",
+      "volumeInfo": {
+        "title": "Politics of Civil Wars",
+        "subtitle": "Conflict, Intervention and Resolution",
+        "authors": ["Amalendu Misra"],
+        "publishedDate": "2008",
+        "description": "Civil war is one of the critical issues of our time. Although intrastate in nature, it has a disproportionate and overwhelming effect on the overall peace and stability of contemporary international society. This book investigates why civil wars have become so widespread and how can they be contained?",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39076002769003"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 204,
+        "printType": "BOOK",
+        "categories": ["History"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=k0goAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=k0goAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=k0goAQAAMAAJ&q=wars&dq=wars&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=k0goAQAAMAAJ&dq=wars&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Politics_of_Civil_Wars.html?hl=&id=k0goAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "MM",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "MM",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=k0goAQAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This book investigates why civil wars have become so widespread and how can they be contained?"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "jLkrDwAAQBAJ",
+      "etag": "IsV/1TqqgNs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/jLkrDwAAQBAJ",
+      "volumeInfo": {
+        "title": "React and React Native",
+        "authors": ["Adam Boduch"],
+        "publisher": "Packt Publishing Ltd",
+        "publishedDate": "2017-03-08",
+        "description": "Use React and React Native to build applications for desktop browsers, mobile browsers, and even as native mobile apps About This Book Build React and React Native applications using familiar component concepts Dive deep into each platform, from routing in React to creating native mobile applications that can run offline Use Facebook's Relay, React and GraphQL technologies, to create a unified architecture that powers both web and native applications Who This Book Is For This book is written for any JavaScript developer—beginner or expert—who wants to start learning how to put both of Facebook's UI libraries to work. No knowledge of React is needed, though a working knowledge of ES2015 will help you follow along better. What You Will Learn Craft reusable React components Control navigation using the React Router to help keep your UI in sync with URLs Build isomorphic web applications using Node.js Use the Flexbox layout model to create responsive mobile designs Leverage the native APIs of Android and iOS to build engaging applications with React Native Respond to gestures in a way that's intuitive for the user Use Relay to build a unified data architecture for your React UIs In Detail React and React Native allow you to build cross-platform desktop and mobile applications using Facebook's innovative UI libraries. Combined with the Flux data architecture and Relay, you can now create powerful and feature-complete applications from just one code base! This book is split into three parts. The first part shows you how to start crafting composable UIs using React, from rendering with JSX and creating reusable components through to routing and creating isomorphic applications that run on Node. We then move on to showing you how to take the concepts of React and apply them to building Native UIs using React Native. You'll find out how to build responsive and streamlined UIs that can properly handle user interactions in a mobile environment. You'll also learn how to access device-specific APIs such as the geolocation API, and how to handle offline development with React Native. Finally, we'll tie all of these skills together and shows you how you can create React applications that run on every major platform. As well as understanding application state in depth, you'll learn how to leverage Relay to make feature-complete, data-driven web and native mobile applications. Style and approach Split into three major sections to help organize your learning, this hands-on, code-first book will help you get up to speed with React and React Native—the UI framework that powers Netflix, Yahoo, and Facebook.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781786469571"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "178646957X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 485,
+        "printType": "BOOK",
+        "categories": ["Computers"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.1.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=jLkrDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=jLkrDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=jLkrDwAAQBAJ&printsec=frontcover&dq=react&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=jLkrDwAAQBAJ&dq=react&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/React_and_React_Native.html?hl=&id=jLkrDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "MM",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "MM",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=jLkrDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Use React and React Native to build applications for desktop browsers, mobile browsers, and even as native mobile apps About This Book Build React and React Native applications using familiar component concepts Dive deep into each platform, ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Iv1wDwAAQBAJ",
+      "etag": "uldf3vhO5Oo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Iv1wDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Hands-On Design Patterns with React Native",
+        "subtitle": "Proven techniques and patterns for efficient native mobile development with JavaScript",
+        "authors": ["Mateusz Grzesiukiewicz"],
+        "publisher": "Packt Publishing Ltd",
+        "publishedDate": "2018-09-29",
+        "description": "Learn how to write cross platform React Native code by using effective design patterns in the JavaScript world. Get to know industry standard patterns as well as situational patterns. Decouple your application with these set of “Idea patterns”. Key FeaturesMobile development in React Native should be done in a reusable way. Learn how to build scalable applications using JavaScript patterns that are battle tested.Try effective techniques on your own using over 80 standalone examples.Book Description React Native helps developers reuse code across different mobile platforms like iOS and Android. This book will show you effective design patterns in the React Native world and will make you ready for professional development in big teams. The book will focus only on the patterns that are relevant to JavaScript, ECMAScript, React and React Native. However, you can successfully transfer a lot of the skills and techniques to other languages. I call them “Idea patterns”. This book will start with the most standard development patterns in React like component building patterns, styling patterns in React Native and then extend these patterns to your mobile application using real world practical examples. Each chapter comes with full, separate source code of applications that you can build and run on your phone. The book is also diving into architectural patterns. Especially how to adapt MVC to React environment. You will learn Flux architecture and how Redux is implementing it. Each approach will be presented with its pros and cons. You will learn how to work with external data sources using libraries like Redux thunk and Redux Saga. The end goal is the ability to recognize the best solution for a given problem for your next mobile application. What you will learnExplore the design Patterns in React NativeLearn the best practices for React Native developmentExplore common React patterns that are highly used within React Native developmentLearn to decouple components and use dependency injection in your applicationsExplore the best ways of fetching data from the backend systemsLearn the styling patterns and how to implement custom mobile designsExplore the best ways to organize your application code in big codebasesWho this book is for The ideal target audience for this book are people eager to learn React Native design patterns who already know the basics of JavaScript. We can assume that the target audience already knows how to write Hello World in JavaScript and know what are the functions, recursive functions, JavaScript types and loops.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781788999540"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1788999541"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 297,
+        "printType": "BOOK",
+        "categories": ["Computers"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.1.1.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Iv1wDwAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Iv1wDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=Iv1wDwAAQBAJ&dq=react&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=Iv1wDwAAQBAJ&dq=react&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Hands_On_Design_Patterns_with_React_Nati.html?hl=&id=Iv1wDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "MM",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "MM",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Iv1wDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This book will show you effective design patterns in the React Native world and will make you ready for professional development in big teams."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "274fCwAAQBAJ",
+      "etag": "SRWrHi4PMeQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/274fCwAAQBAJ",
+      "volumeInfo": {
+        "title": "Learning React Native",
+        "subtitle": "Building Native Mobile Apps with JavaScript",
+        "authors": ["Bonnie Eisenman"],
+        "publisher": "\"O'Reilly Media, Inc.\"",
+        "publishedDate": "2015-12-03",
+        "description": "Get a practical introduction to React Native, the JavaScript framework for writing and deploying fully featured mobile apps that look and feel native. With this hands-on guide, you’ll learn how to build applications that target iOS, Android, and other mobile platforms instead of browsers. You’ll also discover how to access platform features such as the camera, user location, and local storage. With code examples and step-by-step instructions, author Bonnie Eisenman shows web developers and frontend engineers how to build and style interfaces, use mobile components, and debug and deploy apps. Along the way, you’ll build several increasingly sophisticated sample apps with React Native before putting everything together at the end. Learn how React Native provides an interface to native UI components Examine how the framework uses native components analogous to HTML elements Create and style your own React Native components and applications Install modules for APIs and features not supported by the framework Get tools for debugging your code, and for handling issues outside of JavaScript Put it all together with the Zebreto effective-memorization flashcard app Deploy apps to the iOS App Store and Google’s Play Store",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781491929070"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1491929073"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 271,
+        "printType": "BOOK",
+        "categories": ["COMPUTERS"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=274fCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=274fCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=274fCwAAQBAJ&printsec=frontcover&dq=react&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=274fCwAAQBAJ&dq=react&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Learning_React_Native.html?hl=&id=274fCwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "MM",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "MM",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=274fCwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "With this hands-on guide, you’ll learn how to build applications that target iOS, Android, and other mobile platforms instead of browsers."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "XCLhDwAAQBAJ",
+      "etag": "vQzyzzsaAoA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/XCLhDwAAQBAJ",
+      "volumeInfo": {
+        "title": "React and React Native",
+        "subtitle": "A complete hands-on guide to modern web and mobile development with React.js",
+        "authors": ["Adam Boduch", "Roy Derks"],
+        "publisher": "Packt Publishing Ltd",
+        "publishedDate": "2020-04-30",
+        "description": "Get up to speed with React, React Native, GraphQL and Apollo for building cross-platform native apps with the help of practical examples Key FeaturesCovers the latest features of React such as Hooks, Suspense, NativeBase, and Apollo in this updated third editionGet to grips with the React architecture for writing easy-to-manage web and mobile applicationsUnderstand GraphQL and Apollo for building a scalable backend for your cross-platform appsBook Description React and React Native, Facebook's innovative User Interface (UI) libraries, are designed to help you build robust cross-platform web and mobile applications. This updated third edition is improved and updated to cover the latest version of React. The book particularly focuses on the latest developments in the React ecosystem, such as modern Hook implementations, code splitting using lazy components and Suspense, user interface framework components using Material-UI, and Apollo. In terms of React Native, the book has been updated to version 0.62 and demonstrates how to apply native UI components for your existing mobile apps using NativeBase. You will begin by learning about the essential building blocks of React components. Next, you'll progress to working with higher-level functionalities in application development, before putting this knowledge to use by developing user interface components for the web and for native platforms. In the concluding chapters, you'll learn how to bring your application together with a robust data architecture. By the end of this book, you'll be able to build React applications for the web and React Native applications for multiple mobile platforms. What you will learnDelve into the React architecture, component properties, state, and contextGet to grips with React Hooks for handling functions and componentsImplement code splitting in React using lazy components and SuspenseBuild robust user interfaces for mobile and desktop apps using Material-UIWrite shared components for Android and iOS mobile apps using React NativeSimplify layout design for React Native apps using NativeBaseWrite GraphQL schemas to power web and mobile appsImplement web and mobile components that are driven by ApolloWho this book is for This book is for any JavaScript developer who wants to start learning how to use Facebook's UI libraries, React and React Native, for mobile and web application development. Although no prior knowledge of React is needed, working knowledge of JavaScript programming will help you understand the concepts covered in the book more effectively.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781839212437"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1839212438"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 505,
+        "printType": "BOOK",
+        "categories": ["Computers"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.3.3.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=XCLhDwAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=XCLhDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=XCLhDwAAQBAJ&dq=react&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=XCLhDwAAQBAJ&dq=react&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/React_and_React_Native.html?hl=&id=XCLhDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "MM",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "MM",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=XCLhDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "By the end of this book, you'll be able to build React applications for the web and React Native applications for multiple mobile platforms."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "uUMQEAAAQBAJ",
+      "etag": "ii00KvgRG5g",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/uUMQEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Full-Stack React, TypeScript, and Node",
+        "subtitle": "Build cloud-ready web applications using React 17 with Hooks and GraphQL",
+        "authors": ["David Choi"],
+        "publisher": "Packt Publishing Ltd",
+        "publishedDate": "2020-12-18",
+        "description": "Discover the current landscape of full-stack development and how to leverage modern web technologies for building production-ready React.js applications to deploy on AWS Key FeaturesUnderstand the architecture of React and single-page applicationsBuild a modern Web API for your SPA using Node.js, Express, and GraphQLGain a clear and practical understanding of how to build a complete full-stack applicationBook Description React sets the standard for building high-performance client-side web apps. Node.js is a scalable application server that is used in thousands of websites, while GraphQL is becoming the standard way for large websites to provide data and services to their users. Together, these technologies, when reinforced with the capabilities of TypeScript, provide a cutting-edge stack for complete web application development. This book takes a hands-on approach to implementing modern web technologies and the associated methodologies for building full-stack apps. You’ll begin by gaining a strong understanding of TypeScript and how to use it to build high-quality web apps. The chapters that follow delve into client-side development with React using the new Hooks API and Redux. Next, you’ll get to grips with server-side development with Express, including authentication with Redis-based sessions and accessing databases with TypeORM. The book will then show you how to use Apollo GraphQL to build web services for your full-stack app. Later, you’ll learn how to build GraphQL schemas and integrate them with React using Hooks. Finally, you’ll focus on how to deploy your application onto an NGINX server using the AWS cloud. By the end of this book, you’ll be able to build and deploy complete high-performance web applications using React, Node, and GraphQL. What you will learnDiscover TypeScript’s most important features and how they can be used to improve code quality and maintainabilityUnderstand what React Hooks are and how to build React apps using themImplement state management for your React app using ReduxSet up an Express project with TypeScript and GraphQL from scratchBuild a fully functional online forum app using React and GraphQLAdd authentication to your web app using RedisSave and retrieve data from a Postgres database using TypeORMConfigure NGINX on the AWS cloud to deploy and serve your appsWho this book is for The book is for web developers who want to go beyond front-end web development and enter the world of full-stack web development by learning about modern web technologies and how they come together. A good understanding of JavaScript programming is required before getting started with this web development book.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781839214691"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1839214694"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 648,
+        "printType": "BOOK",
+        "categories": ["Computers"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=uUMQEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=uUMQEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=uUMQEAAAQBAJ&printsec=frontcover&dq=react&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=uUMQEAAAQBAJ&dq=react&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Full_Stack_React_TypeScript_and_Node.html?hl=&id=uUMQEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "MM",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "MM",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=uUMQEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This book takes a hands-on approach to implementing modern web technologies and the associated methodologies for building full-stack apps."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "viIvEAAAQBAJ",
+      "etag": "JGpMGrZ7CWw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/viIvEAAAQBAJ",
+      "volumeInfo": {
+        "title": "React 17 Design Patterns and Best Practices",
+        "subtitle": "Design, build, and deploy production-ready web applications using industry-standard practices",
+        "authors": ["Carlos Santana Roldán"],
+        "publisher": "Packt Publishing Ltd",
+        "publishedDate": "2021-05-17",
+        "description": "Build scalable, maintainable, and powerful React web apps with design patterns and insightful best practices Key Features Make the most of design patterns in React – including render props and controlled and uncontrolled inputs Master React Hooks with the help of this updated third edition Work through examples that can be used to create reusable code and extensible designs Book DescriptionFilled with useful React patterns that you can use in your projects straight away, this book will help you save time and build better web applications with ease. React 17 Design Patterns and Best Practices is a hands-on guide for those who want to take their coding skills to a new level. You’ll spend most of your time working your way through the principles of writing maintainable and clean code, but you’ll also gain a deeper insight into the inner workings of React. As you progress through the chapters, you’ll learn how to build components that are reusable across the application, how to structure applications, and create forms that actually work. Then you’ll build on your knowledge by exploring how to style React components and optimize them to make applications faster and more responsive. Once you’ve mastered the rest, you’ll learn how to write tests effectively and how to contribute to React and its ecosystem. By the end of this book, you'll be able to avoid the process of trial and error and developmental headaches. Instead, you’ll be able to use your new skills to efficiently build and deploy real-world React web applications you can be proud of.What you will learn Get to grips with the techniques of styling and optimizing React components Create components using the new React Hooks Use server-side rendering to make applications load faster Get up to speed with the new React Suspense technique and using GraphQL in your projects Write a comprehensive set of tests to create robust and maintainable code Build high-performing applications by optimizing components Who this book is for This book is for web developers who want to understand React better and apply it to real-life app development. You’ll need an intermediate-level experience with React and JavaScript before you get started.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781800561762"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1800561768"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 381,
+        "printType": "BOOK",
+        "categories": ["Computers"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.6.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=viIvEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=viIvEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=viIvEAAAQBAJ&printsec=frontcover&dq=react&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=viIvEAAAQBAJ&dq=react&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/React_17_Design_Patterns_and_Best_Practi.html?hl=&id=viIvEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "MM",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "MM",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=viIvEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Build scalable, maintainable, and powerful React web apps with design patterns and insightful best practices Key Features Make the most of design patterns in React – including render props and controlled and uncontrolled inputs Master ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "5_o8EAAAQBAJ",
+      "etag": "k4NwRNK8jJk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/5_o8EAAAQBAJ",
+      "volumeInfo": {
+        "title": "React Cookbook",
+        "authors": ["David Griffiths", "Dawn Griffiths"],
+        "publisher": "\"O'Reilly Media, Inc.\"",
+        "publishedDate": "2021-08-11",
+        "description": "React helps you create and work on an app in just a few minutes. But learning how to put all the pieces together is hard. How do you validate a form? Or implement a complex multistep user action without writing messy code? How do you test your code? Make it reusable? Wire it to a backend? Keep it easy to understand? The React Cookbook delivers answers fast. Many books teach you how to get started, understand the framework, or use a component library with React, but very few provide examples to help you solve particular problems. This easy-to-use cookbook includes the example code developers need to unravel the most common problems when using React, categorized by topic area and problem. You'll learn how to: Build a single-page application in React using a rich UI Create progressive web applications that users can install and work with offline Integrate with backend services such as REST and GraphQL Automatically test for accessibility problems in your application Secure applications with fingerprints and security tokens using WebAuthn Deal with bugs and avoid common functional and performance problems",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781492085812"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1492085812"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 513,
+        "printType": "BOOK",
+        "categories": ["Computers"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=5_o8EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=5_o8EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=5_o8EAAAQBAJ&printsec=frontcover&dq=react&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=5_o8EAAAQBAJ&dq=react&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/React_Cookbook.html?hl=&id=5_o8EAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "MM",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "MM",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=5_o8EAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "How do you validate a form? Or implement a complex multistep user action without writing messy code? How do you test your code? Make it reusable? Wire it to a backend? Keep it easy to understand? The React Cookbook delivers answers fast."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "A1fjDwAAQBAJ",
+      "etag": "3FbQt8IaHuU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/A1fjDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Essentials of Javascript",
+        "subtitle": "All about React Native",
+        "authors": ["Shaaran Lakshminarayanan"],
+        "publisher": "Shaaran Lakshminarayanan",
+        "publishedDate": "2020-05-12",
+        "description": "Do you want to make applications for Android and iOS ? Are you a developer who is bored of writing code for both Android and iOS ? In this series of books we will overcome the problem of having to write code for Android and iOS by using React Native. React Native is a framework developed by Facebook for creating native-style apps for iOS & Android under one common language, JavaScript. Initially, Facebook only developed React Native to support iOS. However with its recent support of the Android operating system, the library can now render mobile UIs for both platforms. Why React Native ? Not only react native allows you to create cross platform applications but react native also makes updating apps simple through over-the-app updates. Over the air update in react native is achieved through technologies such as CodePush with a few lines of code. Armed with React Native you’ll finally be able to make apps of your choice in no time and I’m glad to show you what React Native can do through this series of books. In this book we will learn the core concepts of Javascript to help us with our React Native Journey.",
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 27,
+        "printType": "BOOK",
+        "categories": ["Computers"],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.0.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=A1fjDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=A1fjDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=A1fjDwAAQBAJ&printsec=frontcover&dq=react&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=A1fjDwAAQBAJ&dq=react&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Essentials_of_Javascript.html?hl=&id=A1fjDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "MM",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "MM",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=A1fjDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In this book we will learn the core concepts of Javascript to help us with our React Native Journey."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "2HvGDwAAQBAJ",
+      "etag": "nEy8CqQ+p/0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/2HvGDwAAQBAJ",
+      "volumeInfo": {
+        "title": "React Projects",
+        "subtitle": "Build 12 real-world applications from scratch using React, React Native, and React 360",
+        "authors": ["Roy Derks"],
+        "publisher": "Packt Publishing Ltd",
+        "publishedDate": "2019-12-20",
+        "description": "Build cross-platform applications of varying complexity for the web, mobile, and VR devices using React tooling Key FeaturesBuild React applications at scale using effective React patterns and best practicesExplore React features such as Hooks, the Context API, and the Suspense APIExtend React’s integration with React Native for building cross-platform mobile apps and gamesBook Description Developed by Facebook, React is a popular library for building impressive user interfaces. React extends its capabilities to the mobile platform using the React Native framework and integrates with popular web and mobile tools to build scalable applications. React Projects is your guide to learning React development by using modern development patterns and integrating React with powerful web tools such as GraphQL, Expo, and React 360. You'll start building a real-world project right from the first chapter and get hands on with developing scalable applications as you advance to building more complex projects. Throughout the book, you'll use the latest versions of React and React Native to explore features such as Higher Order Components (HOC), Context, and Hooks on multiple platforms, which will help you build full stack web and mobile applications efficiently. Finally, you'll delve into unit testing with Jest to build test-driven apps. By the end of this React book, you'll have developed the skills necessary to start building scalable React apps across web and mobile platforms. What you will learnCreate a wide range of applications using various modern React tools and frameworksDiscover how React Hooks modernize state management for React appsDevelop progressive web applications using React componentsBuild test-driven React applications using the Jest and Enzyme frameworksUnderstand full stack development using React, Apollo, and GraphQLPerform server-side rendering using React and React RouterDesign gestures and animations for a cross-platform game using React NativeWho this book is for The book is for JavaScript developers who want to explore React tooling and frameworks for building cross-platform applications. Basic knowledge of web development, ECMAScript, and React will assist with understanding key concepts covered in this book.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781789953398"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1789953391"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 465,
+        "printType": "BOOK",
+        "categories": ["Computers"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.3.3.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=2HvGDwAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=2HvGDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=2HvGDwAAQBAJ&dq=react&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=2HvGDwAAQBAJ&dq=react&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/React_Projects.html?hl=&id=2HvGDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "MM",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "MM",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=2HvGDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Basic knowledge of web development, ECMAScript, and React will assist with understanding key concepts covered in this book."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "GPBbEAAAQBAJ",
+      "etag": "2SAHD/TpshQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/GPBbEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Full-Stack Web Development with GraphQL and React",
+        "subtitle": "Taking React from frontend to full-stack with GraphQL and Apollo",
+        "authors": ["Sebastian Grebe"],
+        "publisher": "Packt Publishing Ltd",
+        "publishedDate": "2022-02-28",
+        "description": "Unleash the power of GraphQL, React 17, Node, and Express to build a scalable and production-ready application from scratch to be deployed on AWS Key FeaturesBuild full-stack applications with modern APIs using GraphQL and React HooksIntegrate Apollo into React and build frontend components using GraphQLImplement a self-updating notification pop-up with a unique GraphQL feature called SubscriptionsBook Description React and GraphQL, when combined, provide you with a very dynamic, efficient, and stable tech stack to build web-based applications. GraphQL is a modern solution for querying an API that represents an alternative to REST and is the next evolution in web development. This book guides you in creating a full-stack web application from scratch using modern web technologies such as Apollo, Express.js, Node.js, and React. First, you'll start by configuring and setting up your development environment. Next, the book demonstrates how to solve complex problems with GraphQL, such as abstracting multi-table database architectures and handling image uploads using Sequelize. You'll then build a complete Graphbook from scratch. While doing so, you'll cover the tricky parts of connecting React to the backend, and maintaining and synchronizing state. In addition to this, you'll also learn how to write Reusable React components and use React Hooks. Later chapters will guide you through querying data and authenticating users in order to enable user privacy. Finally, you'll explore how to deploy your application on AWS and ensure continuous deployment using Docker and CircleCI. By the end of this web development book, you'll have learned how to build and deploy scalable full-stack applications with ease using React and GraphQL. What you will learnBuild a GraphQL API by implementing models and schemas with Apollo and SequelizeSet up an Apollo Client and build frontend components using ReactWrite Reusable React components and use React HooksAuthenticate and query user data using GraphQLUse Mocha to write test cases for your full-stack applicationDeploy your application to AWS using Docker and CircleCIWho this book is for This React GraphQL book is for web developers familiar with React and GraphQL who want to enhance their skills and build full-stack applications using industry standards like React, Apollo, Node.js, and SQL at scale while learning to solve complex problems with GraphQL.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781801079174"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "180107917X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 473,
+        "printType": "BOOK",
+        "categories": ["Computers"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=GPBbEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=GPBbEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=GPBbEAAAQBAJ&printsec=frontcover&dq=react&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=GPBbEAAAQBAJ&dq=react&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Full_Stack_Web_Development_with_GraphQL.html?hl=&id=GPBbEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "MM",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "MM",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=GPBbEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This book guides you in creating a full-stack web application from scratch using modern web technologies such as Apollo, Express.js, Node.js, and React. First, you'll start by configuring and setting up your development environment."
+      }
+    }
+  ]
+}
